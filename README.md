@@ -67,9 +67,9 @@ If you encounter any issues or have ideas, you can contact us at ricardo.garcia@
 You can download a copy of all the files in this repository by cloning the
 [git](https://git-scm.com/) repository:
 
-    git clone https://github.com/JoseAngelMartinB/prediction-behavioural-analysis-ml-travel-mode-choice.git
+    git clone https://github.com/RicardoGarciaRodenas/TAC-access-charge-for-freight-rail-transport.git
 
-or [download a zip archive](https://github.com/JoseAngelMartinB/prediction-behavioural-analysis-ml-travel-mode-choice/archive/master.zip).
+or [download a zip archive](https://github.com/RicardoGarciaRodenas/TAC-access-charge-for-freight-rail-transport/archive/refs/heads/main.zip).
 
 
 ## License
