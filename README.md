@@ -1,4 +1,4 @@
-# Code and experiments of the paper "Modeling freight rail transport access costs:  economic and environmental perspectives"
+# Code and experiments of the paper "A model for pricing freight rail transport access costs: economic and environmental perspectives"
 
 Authors:
 
@@ -8,13 +8,13 @@ Authors:
 * María Luz López-García
 * José Ángel Martín-Baos
 
-These codes are associated with the paper "Modeling freight rail transport access costs:  economic and environmental perspectives"
+These codes are associated with the paper "A model for pricing freight rail transport access costs: economic and environmental perspectives"
  
 
 If you use any part of the code or data provided in this repository, please cite it as:
-> Ricardo García-Ródenas, Esteve Codina, Luis Cadarso, María Luz López-García, José Ángel Martín-Baos  "Modeling freight rail transport access costs:  economic and environmental perspectives". arXiv preprint.
+> Ricardo García-Ródenas, Esteve Codina, Luis Cadarso, María Luz López-García, José Ángel Martín-Baos "A model for pricing freight rail transport access costs: economic and environmental perspectives". arXiv preprint. DOI: 10.48550/arXiv.2504.04257
 
-You can also access the preprint version of this paper on [arXiv](AÑADIR).
+You can also access the preprint version of this paper on [arXiv](https://arxiv.org/abs/2504.04257).
 
 
 ## Abstract
